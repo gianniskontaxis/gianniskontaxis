@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,aws,react,git,kubernetes,docker,python,mongodb,tensorflow,tailwind,androidstudio,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,aws,react,git,kubernetes,docker,python,mongodb,tensorflow,tailwind,androidstudio,spring)](https://skillicons.dev)
 <!-- Rest of your README content -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
 
