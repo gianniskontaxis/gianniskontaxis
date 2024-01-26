@@ -18,16 +18,23 @@ Hello everyone, my name is Giannis Kontaxis.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,spring)](https://skillicons.dev)
 
   ## Cloud 
+  
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
   ##Deployment 
+  
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)  
 
   ##Deep Learning
-  [![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+
+  ## Android Development
+  
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,androidstudio,spring)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,react,git,kubernetes,docker,python,tensorflow)](https://skillicons.dev)
+
 
 ### Github Activity Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
