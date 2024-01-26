@@ -19,11 +19,11 @@ Hello everyone, my name is Giannis Kontaxis.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
 
 ## Back-End
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,expressjs,php)](https://skillicons.dev)
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=Nosql,mongoDB,MySQL,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nosql,mongoDB,mysql,firebase)](https://skillicons.dev)
 
 
   ## Cloud 
