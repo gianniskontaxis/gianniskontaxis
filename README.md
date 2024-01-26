@@ -23,5 +23,5 @@ Hello everyone, my name is Giannis Kontaxis.
 ## Github Activity Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
 
-## Most Languages Used
+## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gianniskontaxis&layout=compact)](https://github-readme-stats.vercel.app/)
