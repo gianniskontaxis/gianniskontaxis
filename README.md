@@ -23,7 +23,7 @@ Hello everyone, my name is Giannis Kontaxis.
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nosql,mongodb,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql,mongodb,mysql,firebase)](https://skillicons.dev)
 
 
   ## Cloud 
