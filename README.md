@@ -17,7 +17,7 @@ Hello everyone, my name is Giannis Kontaxis.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,androidstudio,spring)](https://skillicons.dev)
 
-
+## Github Activity Stats
 [![My Skills](https://skillicons.dev/icons?i=aws,react,git,kubernetes,docker,python,tensorflow)](https://skillicons.dev)
 <!-- Rest of your README content -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
