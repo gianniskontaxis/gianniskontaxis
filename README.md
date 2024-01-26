@@ -6,6 +6,7 @@
 
 
 Hello everyone, my name is Giannis Kontaxis.
+
 📚 Currently an undergraduate student, majoring Computer Science in the Applied Informatics department, at the University of Macedonia.
 - 📫 How to reach me:
   
