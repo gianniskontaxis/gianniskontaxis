@@ -14,8 +14,17 @@ Hello everyone, my name is Giannis Kontaxis.
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gianniskontaxis9@gmail.com)
 
 ### Skills
-  ## Full-Stack Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,spring)](https://skillicons.dev)
+  ## Front-End
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
+
+## Back-End
+[![My Skills](https://skillicons.dev/icons?i=java,spring,node,express)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=nosql,MongoDB,MySQL,firebase)](https://skillicons.dev)
+
 
   ## Cloud 
   
