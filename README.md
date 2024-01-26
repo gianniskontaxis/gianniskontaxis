@@ -41,8 +41,9 @@ Hello everyone, my name is Giannis Kontaxis.
   ## Android Development
   
 [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,androidstudio,spring)](https://skillicons.dev)
+
+  ## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,c)](https://skillicons.dev)
 
 
 ### Github Activity Stats
