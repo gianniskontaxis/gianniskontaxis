@@ -12,9 +12,9 @@ Hello everyone, my name is Giannis Kontaxis.
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ioannis-kontaxis-197914225/)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gianniskontaxis9@gmail.com)
-  
 
-  
+  - [Skills](#skills) 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,aws,react,git,kubernetes,docker,python,mongodb,tensorflow,tailwind,androidstudio,spring)](https://skillicons.dev)
 <!-- Rest of your README content -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
