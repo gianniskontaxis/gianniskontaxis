@@ -53,3 +53,4 @@ Hello everyone, my name is Giannis Kontaxis.
 
 ### Most Used Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gianniskontaxis&layout=compact)](https://github-readme-stats.vercel.app/)
