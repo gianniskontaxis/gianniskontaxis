@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 ### Hi there 👋
 
@@ -13,15 +13,24 @@ Hello everyone, my name is Giannis Kontaxis.
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ioannis-kontaxis-197914225/)
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gianniskontaxis9@gmail.com)
 
-  ## Skills
+### Skills
+  ## Full-Stack Development
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,spring)](https://skillicons.dev)
 
+  ## Cloud 
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+  ##Deployment 
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)  
+
+  ##Deep Learning
+  [![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,mongodb,tailwind,androidstudio,spring)](https://skillicons.dev)
-
-
 [![My Skills](https://skillicons.dev/icons?i=aws,react,git,kubernetes,docker,python,tensorflow)](https://skillicons.dev)
-<!-- Rest of your README content -->
-## Github Activity Stats
+
+### Github Activity Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianniskontaxis&show_icons=true&theme=radical)
 
-## Most Used Languages
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gianniskontaxis&layout=compact)](https://github-readme-stats.vercel.app/)
