@@ -11,6 +11,8 @@ Hello everyone, my name is Giannis Kontaxis.
 - 📫 How to reach me:
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ioannis-kontaxis-197914225/)
+
+
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gianniskontaxis9@gmail.com)
 
   ## Skills
