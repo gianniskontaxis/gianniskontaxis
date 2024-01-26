@@ -21,11 +21,11 @@ Hello everyone, my name is Giannis Kontaxis.
   
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-  ##Deployment 
+  ## Deployment 
   
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)  
 
-  ##Deep Learning
+  ## Deep Learning
   
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
 
