@@ -1,10 +1,10 @@
+## About Me
+
 ### Hi there 👋
 
 <!--
 **gianniskontaxis/gianniskontaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
 Hello everyone, my name is Giannis Kontaxis.
 
 📚 Currently an undergraduate student, majoring Computer Science in the Applied Informatics department, at the University of Macedonia.
