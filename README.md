@@ -7,9 +7,9 @@
 
 Hello everyone, my name is Giannis Kontaxis.
 📚 Currently an undergraduate student, majoring Computer Science in the Applied Informatics department, at the University of Macedonia.
-- 📫 How to reach me: 
+- 📫 How to reach me:
+  
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ioannis-kontaxis-197914225/)
-
   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gianniskontaxis9@gmail.com)
   
 
