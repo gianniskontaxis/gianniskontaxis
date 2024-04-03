@@ -20,7 +20,7 @@ Hello everyone, my name is Giannis Kontaxis.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind)](https://skillicons.dev)
 
 ## Back-End
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,expressjs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
 
 ## Databases
 
