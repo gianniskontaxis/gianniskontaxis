@@ -8,7 +8,7 @@
 Hello everyone, my name is Giannis Kontaxis.
 
 - 📚 Majoring Computer Science in the Applied Informatics department, at the University of Macedonia.
-- 🔐I'm interested in DevOps Engineering, Machine Learning and BioInformatics.
+- 🔐I'm interested in DevOps Engineering, Machine Learning and Bio-Informatics.
 - 📫 How to reach me:
   
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ioannis-kontaxis-197914225/)
